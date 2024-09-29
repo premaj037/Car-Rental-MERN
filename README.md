@@ -1,7 +1,5 @@
-# Vehicle Rental Platform
-
 ## Description
-This project is a web-based vehicle rental platform with a React frontend and a Node.js backend. It simplifies vehicle rentals, allowing users to search, book, and manage their rentals seamlessly. Key features include real-time availability, transparent reviews, and efficient damage tracking, enhancing the rental experience for both users and vehicle owners.
+This project is a web-based vehicle rental platform with a React frontend and a Node.js backend. It simplifies vehicle rentals, allowing users to search, book, and manage their rentals seamlessly.
 
 ## Getting Started
 - **Backend Setup:**
@@ -21,8 +19,3 @@ This project is a web-based vehicle rental platform with a React frontend and a 
   1. Navigate to the `frontend` directory using `cd frontend`.
   2. Install dependencies with `npm install`.
   3. Start the frontend with `npm start`.
-
-## Usage
-- To access the frontend, open your browser and go to `http://localhost:3000`.
-- To access the backend admin panel, open your browser and go to `http://localhost:4001`.
-
